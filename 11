@@ -4,6 +4,33 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73efb1eb27294f8ea059765b368f411b:8af553e93bc5b20e828a14a7643e0c59
 https://4k-event2-new-25fps-enc.edgenextcdn.net/out/v1/c40564684d074b29a21efcf70725df3c/index.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 1
+http://gcf.nrslist.com:80/TVD4001/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 2
+http://gcf.nrslist.com:80/TVD4002/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 3
+http://gcf.nrslist.com:80/TVD4003/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 4
+http://gcf.nrslist.com:80/TVD4004/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 5
+http://gcf.nrslist.com:80/TVD4005/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 6
+http://gcf.nrslist.com:80/TVD4006/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 7
+http://gcf.nrslist.com:80/TVD4007/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 8
+http://gcf.nrslist.com:80/TVD4062/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 9
+http://gcf.nrslist.com:80/TVD4063/index.mpd
+
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -47,6 +74,9 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23zBjQ3Lc-iFIRSgIjeAPmBgnLno3mac4Qq0J_kp-alJ50SPnseLVdmnC&s=10", StarzPlay
+http://gcf.nrslist.com/TVN0032/index.mpd
 
 #EXTINF:-1 group-title="#🇳🇿 Kiwi Zone 🇳🇿#" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1.nz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
