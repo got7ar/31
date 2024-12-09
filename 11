@@ -1017,3 +1017,29 @@ https://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_0
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 1
+http://gcf.nrslist.com/TVD017/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 2
+http://gcf.nrslist.com/TVD018/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 3
+http://gcf.nrslist.com/TVD019/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 4
+http://gcf.nrslist.com/TVD020/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 5
+http://gcf.nrslist.com/TVD021/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 6
+http://gcf.nrslist.com/TVD022/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 7
+http://gcf.nrslist.com/TVD023/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 8
+http://gcf.nrslist.com/TVD024/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 9
+http://gcf.nrslist.com/TVD016/index.mpd
