@@ -91,6 +91,16 @@ https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23zBjQ3Lc-iFIRSgIjeAPmBgnLno3mac4Qq0J_kp-alJ50SPnseLVdmnC&s=10", StarzPlay
 http://gcf.nrslist.com/TVN0032/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/jJxgSC6/adsports1premium.png" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 1 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gP8cdjt/adsports2premium.png" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 2 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
 #EXTINF:-1 group-title="#🇳🇿 Kiwi Zone 🇳🇿#" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1.nz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
