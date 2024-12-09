@@ -4,43 +4,43 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73efb1eb27294f8ea059765b368f411b:8af553e93bc5b20e828a14a7643e0c59
 https://4k-event2-new-25fps-enc.edgenextcdn.net/out/v1/c40564684d074b29a21efcf70725df3c/index.mpd
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 1
 http://gcf.nrslist.com:80/TVD4001/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 2
 http://gcf.nrslist.com:80/TVD4002/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 3
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 3
 http://gcf.nrslist.com:80/TVD4003/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 4
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 4
 http://gcf.nrslist.com:80/TVD4004/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 5
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 5
 http://gcf.nrslist.com:80/TVD4005/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 6
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 6
 http://gcf.nrslist.com:80/TVD4006/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 7
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 7
 http://gcf.nrslist.com:80/TVD4007/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 8
 http://gcf.nrslist.com:80/TVD4062/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 9
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Be-in Sports 9
 http://gcf.nrslist.com:80/TVD4063/index.mpd
 
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png",beIN Sports AFC
+#EXTINF:#EXTINF:-1 tvg-name="be-IN Sports AFC" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png",beIN Sports AFC
 #EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
 http://gcf.nrslist.com:80/TVD4064/index.mpd
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",beIN Sports AFC 1
+#EXTINF:#EXTINF:-1 tvg-name="be-IN Sports AFC 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",beIN Sports AFC 1
 #EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
 http://gcf.nrslist.com:80/TVD4065/index.mpd
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",beIN Sports AFC 2
+#EXTINF:#EXTINF:-1 tvg-name="be-IN Sports AFC 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",beIN Sports AFC 2
 #EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
 http://gcf.nrslist.com:80/TVD4066/index.mpd
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN Sports AFC 3
+#EXTINF:#EXTINF:-1 tvg-name="be-IN Sports AFC 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN Sports AFC 3
 #EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
 http://gcf.nrslist.com:80/TVD4067/index.mpd
 
