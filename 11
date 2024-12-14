@@ -1155,3 +1155,21 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1479590&extension=ts&play_token=5bbOmdwY1d
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470619&extension=ts&play_token=211FN37ito
+
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1471381&extension=ts&play_token=Zg9466KjzU
+
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470622&extension=ts&play_token=VhyUMrFgIa
+
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470620&extension=ts&play_token=9prVcKwqtt
+
+
