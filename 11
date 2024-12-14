@@ -1172,4 +1172,5 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470622&
 #EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470620&extension=ts&play_token=9prVcKwqtt
 
-
+le="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://all4kone.com:8080/live/38:68:a4:ba:e6:d6/T5k9OzHYac/429794.m3u8
