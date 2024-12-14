@@ -1171,7 +1171,7 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470622&
 
 
 #EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", 1 4K
-http://mutant.arrox.top/live/5XDQl1mG6/wa5cv9Ybz2/419537.m3u8
+http://cf.cdn8k.me/live/iptvload7v2qao/zyj02aqyat/620787.m3u8
 
 #EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", 2 4K
 http://mutant.arrox.top/live/5XDQl1mG6/wa5cv9Ybz2/270998.m3u8
@@ -1215,3 +1215,9 @@ http://cf.cdn8k.me/live/iptvload7v2qao/zyj02aqyat/1036839.m3u8
 
 #EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t10 4K
 http://cf.cdn8k.me/live/iptvload7v2qao/zyj02aqyat/1036838.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", 4K
+http://cf.cdn8k.me/live/iptvload7v2qao/zyj02aqyat/484471.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", 4K
+http://cf.cdn8k.me/live/iptvload7v2qao/zyj02aqyat/479770.m3u8
