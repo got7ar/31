@@ -1243,3 +1243,30 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
 https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 1
+http://gcf.nrslist.com:80/TVD4001/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 2
+http://gcf.nrslist.com:80/TVD4002/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 3
+http://gcf.nrslist.com:80/TVD4003/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 4
+http://gcf.nrslist.com:80/TVD4004/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 5
+http://gcf.nrslist.com:80/TVD4005/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 6
+http://gcf.nrslist.com:80/TVD4006/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 7
+http://gcf.nrslist.com:80/TVD4007/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 8
+http://gcf.nrslist.com:80/TVD4062/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 9
+http://gcf.nrslist.com:80/TVD4063/index.mpd
