@@ -1252,3 +1252,22 @@ http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/19319
 
 #EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="Eurosport 4K" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NjlfMTI5ODc2OV9F/VVJPU1BPUlQtNEsucG5nJmhhc2g9YjM3/MTQzMzdmNTIyMDcwNTc5MGMyMGMwZDU1NjZlODg=.png" group-title="SPORT",Eurosport 4K
 http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/17995
+
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 1-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sport HD 1-AR
+https://a502.variety-buy.store/api/channel/4
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 2-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sport HD 2-AR
+https://a502.variety-buy.store/api/channel/5
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 3-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sport HD 3-AR
+https://a502.variety-buy.store/api/channel/6
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 4-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sport HD 4-AR
+https://a502.variety-buy.store/api/channel/7
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 5-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sport HD 5-AR
+https://a502.variety-buy.store/api/channel/8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 6-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN Sport HD 6-AR
+https://a502.variety-buy.store/api/channel/9
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 7-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sport HD 7-AR
+https://a502.variety-buy.store/api/channel/10
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 8" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",beIN Sport HD 8
+https://a502.variety-buy.store/api/channel/11
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 9" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN Sport HD 9
+https://a502.variety-buy.store/api/channel/12
