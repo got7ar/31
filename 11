@@ -23,6 +23,9 @@ http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/706538.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
 http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/787027.m3u8
 
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/985100.m3u8
+
 
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein2.png", BEIN SPORTS 2 4K
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/987.ts
@@ -42,6 +45,9 @@ http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/706537.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein2.png", BEIN SPORTS 2 4K
 http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/787026.m3u8
 
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein2.png", BEIN SPORTS 2 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/985099.m3u8
+
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein3.png", BEIN SPORTS 3 4K
 http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/986.ts
 
@@ -59,6 +65,9 @@ http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/706536.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein3.png", BEIN SPORTS 3 4K
 http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/787025.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein3.png", BEIN SPORTS 3 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/985098.m3u8
 
 
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein4.png", BEIN SPORTS 4 4K
