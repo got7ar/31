@@ -1244,29 +1244,11 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/
 #KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
 https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 1
-http://gcf.nrslist.com:80/TVD4001/index.mpd
+#EXTINF:-1 tvg-id="digi4k.ro" tvg-name="Digi 4K" tvg-logo="https://www.media-max.ro/wp-content/uploads/2020/05/Digi-4k-disponibil-temporar-necriptat.png" group-title="ANT.1, PROTV..PRIMA..KANAL.D",Digi 4K
+http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/8979
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 2
-http://gcf.nrslist.com:80/TVD4002/index.mpd
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="SPORT",Prima 4K
+http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/19319
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 3
-http://gcf.nrslist.com:80/TVD4003/index.mpd
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 4
-http://gcf.nrslist.com:80/TVD4004/index.mpd
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 5
-http://gcf.nrslist.com:80/TVD4005/index.mpd
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 6
-http://gcf.nrslist.com:80/TVD4006/index.mpd
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 7
-http://gcf.nrslist.com:80/TVD4007/index.mpd
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 8
-http://gcf.nrslist.com:80/TVD4062/index.mpd
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 9
-http://gcf.nrslist.com:80/TVD4063/index.mpd
+#EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="Eurosport 4K" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NjlfMTI5ODc2OV9F/VVJPU1BPUlQtNEsucG5nJmhhc2g9YjM3/MTQzMzdmNTIyMDcwNTc5MGMyMGMwZDU1NjZlODg=.png" group-title="SPORT",Eurosport 4K
+http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/17995
