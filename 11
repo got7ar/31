@@ -1288,7 +1288,7 @@ https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cd
 #EXTINF:-1 group-title="#🇸🇪 Viaplay Xtra 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 100
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net//vp/xtra100/xtra100.isml/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
-#EXTINF:-1 group-title="#🇸🇪 Viaplay Xtra 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 100
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net//vp/xtra100/xtra100.isml/index.mpd
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png",Sky Sport Uno (Italy) - Vpn Italy
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
