@@ -1323,3 +1323,9 @@ https://thedream.biz.id/gevolmagtigdes/prokci.php/https://director.tv.c.is/__cl/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="#🇸🇬 Hub Premier Sports" group-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 2 - 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://co2-bks400-05.starhubgo.com/bpk-token/1ab@je0o3dxui1vpmjwhktdwru30hocrwl5yj00mu1da/bpk-tv/HubPremier2_4K/output/manifest.mpd
