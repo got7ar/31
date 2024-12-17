@@ -972,3 +972,390 @@ http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036837.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg",  4K 1
 http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/484472.m3u8
 
+
+#EXTINF:-1 tvg-id="341" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161511-tqw32kvh47lami06.png" group-title="Sky Sport Now",Sky Sport 1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96be5ca21f087c8cb1d7630457e20000:53cb495864a442f4b7e7df8b540e035d
+https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
+
+#EXTINF:-1 tvg-id="358" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161545-kw0ruhxwjmpgiuti.png" group-title="Sky Sport Now",Sky Sport 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef909acce1f53f5db2a1cdafd2e90000:aba1269d685f474fbddf97ce2b45c725
+https://linear-s.media.skyone.co.nz/sky-sport-2.mpd
+
+#EXTINF:-1 tvg-id="354" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13233840-xedjcp7hs342vuds.png" group-title="Sky Sport Now",Sky Sport 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79553de34321f11972a72b1e34620000:6f134b10fed345c8be29ab4b318ce502
+https://linear-s.media.skyone.co.nz/sky-sport-3.mpd
+
+#EXTINF:-1 tvg-id="345" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13233840-xedjcp7hs342vuds.png" group-title="Sky Sport Now",Sky Sport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium591/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="342" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234528-13gnvj7boqwjkr6w.png" group-title="Sky Sport Now",Sky Sport 5 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5492033ac2dc11141cd5c1d1d7a80000:ed8219b7064849d385d26151c90bd306
+https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
+
+#EXTINF:-1 tvg-id="359" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234703-xmwnwgow2g0wg0gu.png" group-title="Sky Sport Now",Sky Sport 6 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1c36ae483b44fc78025fae101030000:e4ea0adb660139309ab060cfed1a9d3a
+https://linear-s.media.skyone.co.nz/sky-sport-6.mpd
+
+#EXTINF:-1 tvg-id="357" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234750-mq2qwphavqfh6rot.png" group-title="Sky Sport Now",Sky Sport 7 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2fcb4139149486facbfa3192ae00000:f72cfa3a2c1b1f5575421e835ca2a59b
+https://linear-s.media.skyone.co.nz/sky-sport-7.mpd
+
+#EXTINF:-1 tvg-id="355" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234854-ecd91m6jiqzv38cr.png" group-title="Sky Sport Now",Sky Sport Premier League 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8997f53b7494072bdc5c8d1c5f30000:bde3d1054eea001d0693bb846e124e75
+https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
+
+#EXTINF:-1 tvg-id="356" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234955-8epqsvslkmwhcmk7.png" group-title="Sky Sport Now",Sky Sport 9 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3615431ccb4a14aedc75dbea7c0000:b50ae9ebd7274c90244989fed8061e7b
+https://linear-s.media.skyone.co.nz/sky-sport-9.mpd
+
+#EXTINF:-1 tvg-id="353" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19162459-6l4cdhhnoojtrvez.png" group-title="Sky Sport Now",Sky Sport Select 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aea66cdd9fea4096a81c9640c22f0000:c6a0d6507a25539719272484c7764742
+https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
+
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="NET TV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/GdCgs7TSfDxuvoqhqCWKFrafCPs=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=875
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="TVN" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gH6iABp6NKpsQh1XaihqGNobn3yCnTgwFw&s",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6362&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="RANS Channel" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnH4vbFJ_ayzWe2-GQsUriBwMFOKI8ibu17L8tRITCTCWsVKV5ZiWwhyiE&s=10",RANS Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=8241&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Tv5 Monde.ph" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/ASvEfaoQ_QuaRZJkEPF6fOr-Iuo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg",TV5Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1ca48c39dd5e7ff5e18dce103f2dfb:e6a1c00d35c49870801b42fcbb141eaf
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=17278
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Aljazeera" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7P4kY0OpN9FuW7_qjO0WMG6Jt49n9U4gbGXYx2lN071YYItqLGiLZOkg&s=10",Aljazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6410&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="DW English - [Channel 357].id" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/ozcQ6ml9rzQRpjGStAAS1rqoLg0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg",DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=5075&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="ABC Australia - [Channel 350].id" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwYB7CiwbDN15zIpv-abxEkT3Ny8sTT6J7K0T1XWqdpRB6_ZtgypS1akh&s=10",ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=7150&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaYctgxmNlg9wnhTDYEeBVLkHQ6iPEFpnMdfhcVM2XehiiL083xWs-LE&s=10",Africa News TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=12784&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="SEA TODAY - [Channel 336].id" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxdrazo2wZ-fOdR-uw4x2elJsFQa8_vbmKDcZrzOsRQEUVFmlAP97uqw&s=10",SEA Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=7687&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="EURONEWS - [Channel 333].id" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwdIjoRScjXrFAcWk2Do5Ep-L5_Ni9_cW2ZdpB3XUbXfVki4HR2CXwp5g&s=10",Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6412&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Arirang" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6KdLVWgxcOsWU-c6PqqeVuFYiT-LTY-4I4oo5qo_QdcuoTTP7mQieKQN&s=10",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6784&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Mentari TV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=8237&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Zoomoo - [Channel 39].id" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_N2AI3pg3X_ApKlZXPraaS6isCA19-Z_GPfiXswj95YlLFQ1qoYhFHEP&s=10",Zoo Moo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6533&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Hip Hip Horee!" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYauoGwFiUEZFGmTqYGod0u0ouatrL3aBhqxpEpe7t3RITy75cfPIPnM&s=10",Hip Hip Horee!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=7052&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Horee" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAxJBYqSWtLs3NaMZB_KyUU9RRnTRo6Vc_w&s",Horee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6397&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="AJWA TV" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvErwFSHYscBsBkgcKK8OqAZnlzsyOIR9aNgIaeaISXpDrJ4_rbhubDKg&s=10",AJWA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=7464&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Makkah TV" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRks7vtt1hUujAHp3S-aB8mHMR3h42czIbfnF4Nn-rbxHMWVyIhmiTzm3A&s=10",Makkah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6852&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Tawaf TV - [Channel 105].id" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/AQcR0kAH6bJAFzVSgmLVlMGVlTE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/tawaf-tv-8f44ca.jpg",Tawaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=12607&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Reformed 21.id" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAYEpP3yta36NZJ9HqrBrBnQKhDo0ZbZ-LfVbiVgu2StGWNjWgO0FAiH9&s=10",Reformed 21 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6853&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="UChannel" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/ZrDwh3puHdQHG8TJcf6J6oRtxLw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg",UChannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6898&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Trans7" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=734
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="TRANS TV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=733
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="TVOne" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/stn_xzEBBDF0BDuxM9iNypkhsN4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-a88018.jpg",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=783&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="ANTV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=782
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Kompas TV" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiXgbRz-D8bDfcWZKKmdv0a7WYVn9YFvwDkZsCJHkDRKAE0eOh030y3Z_s&s=10",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=874
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="RTV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/1TMD8nonXrRVhDaBUo7VQgJGkQc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=1561&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Metro TV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=777
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="TVRI" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6441&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="BTV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/4HBTMNO-_vri_NmmDniraoabE4c=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-e7ed52.jpg",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6165&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Jaktv" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg",Jaktv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=5415&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="DAAI TV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/yLGAvvWnDmtFamZToqMh4ZprUxA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=6482&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Nusantara TV" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46TAz5TM8nk8DZTPaZL-kptJEXHGp9AyqTGtZjnLIz8-_RY9Kk4JiMqE&s=10",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=7432&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/57zu3R644uqTG_Fyl_GLwkmWpS4=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg",Jawa Pos TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=9714&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRidf01z_j0YuJkVjuEXpFOxQ0f5o6Rb4jYG6UIwf5YX5IliiuezH30cGvm&s=10",Elshinta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooih.php?id=10975&=.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="NBA TV" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_4q_5uTdQxfCtwUVYEIi2oFqoqzT_Gqh9Kw&s",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=6717
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Rock Entertainment - [Channel 240].id" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyIJAWciS0pY1B-0jNCKMWC-c0u18gtHeoJyiYTYQYaagwgQk2I6ihxw&s=10",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rc65s4vqEXawtkXedYSK2Q","k":"D1bBZuNIlY9Ifnjt4uortg"}],"type":"temporary"}
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=8120
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Rock Action" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzC3ZMen5JsnlVu3-KzZMSUdZPsaxQ3Gsug_9BR_v3CvAOT1c272oW4Nj&s=10",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"p3BleVL4EvPaXO7pmgSe2w","k":"_-bXZJFf6gnZwtFGdicO1Q"}],"type":"temporary"}
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=8121
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"21afccfca882b6fd029bfbf101b039c4":"4178b215436eb40ec733adc233ff1760"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Vidio",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=17938
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"13e7faed04a9c3b9be8ca5203d606faf":"9fc30798749a49a8cfaf7a2915952395"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Vidio",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=6685
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8097f89903c0c6afbe3fbb4f82c07e12":"0e9dde48ac7cbe59447e68d6eefe7583"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Champions TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHhZ7FRYzUwguZEO9bMS6h2EcUVm15_UO7S752Zxbd-WU7D6ck_J2zzg&s=10" group-title="Vidio",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=6686
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3d1c52f71333f0651f9b7971eba4d6d7":"5394d82a0d04a629f95b83ce6612973b"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Champions TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf2N_wkrTS5jjukrnos87k58yyzuD7mZTqA&s" group-title="Vidio",Champions TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=6786
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="Vidio",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=9182
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ca1cf7890604c98959160aa80a8fc3e":"4a545ab7495d40f186a5bf3d88d47802"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Champions TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="Vidio",Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=9183
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a6ade57e9ae9cea4b28633888a84c448":"84e4765e17259dd014b51d2d166ac63e"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Premier League TV" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Vidio",Premier League TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=9353
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"92964e74bebce041660fb124b8976680":"b90847044266ac963f96654336370090"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="Vidio",Bein 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=17884
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d8181bca994eaa57329e04c98122868":"da9b3e7a19a1430b19047792fc6add67"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="beIN SPORTS 2.my" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="Vidio",Bein 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=17875
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b5dfecbb10fe0d3638ea692f9c501d69":"a0c27751c01554f8d792304c82303955"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="Vidio",Bein 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=6317
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"50053fb452c6b15716f8eb9b0e524278":"c2608ef05318c7d7ea9b3694798cb15f"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="SPOTV (HD).sg" tvg-logo="https://thumbor.prod.vidiocdn.com/hoP8i7-OI9MdCdOS8urSOimvp94=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" group-title="Vidio",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=17139
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8d8f85d7592b081f4290a200156543cf":"aee1c7339ec279a0461500a737b3218e"}
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="SPOTV 2 (HD).sg" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="Vidio",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=17140
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium A
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium B
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af2e3be44145944a0e78832852f5daa:d366e6e9554b9fbcc40d78fa16206ebe
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vss/vss.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f02ddb8f11b597c84a5393348e047bb:bc52ff5ddb471c7691ffb57ae74726cc
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Football
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vsf/vsf.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Laliga TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=769ffe6317c75aa48bd5eb9c76e08235:4da506ac3b11200b6d343d3df8fe43b6
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-tve.cdn.viaplay.tv/vp/laligatv/laligatv.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Hub ECity HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Fashion TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
+https://ucdn.starhubgo.com/bpk-tv/FashionTV/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
+https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
+https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
+https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
+https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
