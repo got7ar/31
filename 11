@@ -996,3 +996,9 @@ https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=769ffe6317c75aa48bd5eb9c76e08235:4da506ac3b11200b6d343d3df8fe43b6
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-tve.cdn.viaplay.tv/vp/laligatv/laligatv.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Laliga TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=769ffe6317c75aa48bd5eb9c76e08235:4da506ac3b11200b6d343d3df8fe43b6
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-tve.cdn.viaplay.tv/vp/laligatv/laligatv.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
