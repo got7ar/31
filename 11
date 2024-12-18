@@ -1647,22 +1647,7 @@ https://uselector.cdn.intigral-ott.net/KDM/KDM.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
 https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd 
 
-#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
-http://r2cfiz8zbv.spo.isnon.me:25461/live/LZ6eEyEvKu/117880709815/988.ts
-
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
-http://s245.cc/live/88558855/88558855/26562.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
-http://s245.cc/live/88558855/88558855/239340.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
-http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/544431.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
-http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/706538.m3u8
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SMART ZONE
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
