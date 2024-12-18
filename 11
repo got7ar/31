@@ -1,4 +1,7 @@
+
 #EXTM3U
+
+https://xmltv.tvkaista.net/guides/beinsports.com.xml
 
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", SSC 4k 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
