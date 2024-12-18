@@ -1646,3 +1646,8 @@ https://uselector.cdn.intigral-ott.net/KDM/KDM.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
 https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd 
+
+#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
