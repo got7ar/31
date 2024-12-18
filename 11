@@ -1651,3 +1651,90 @@ https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
+
+#EXTM3U
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 1-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sport HD 1-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com/TVD4001/index.mpd
+https://a502.variety-buy.store/api/channel/4
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 2-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sport HD 2-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com/TVD4002/index.mpd
+https://a502.variety-buy.store/api/channel/5
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 3-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sport HD 3-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4003/index.mpd
+https://a502.variety-buy.store/api/channel/6
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 4-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sport HD 4-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4004/index.mpd
+https://a502.variety-buy.store/api/channel/7
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 5-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sport HD 5-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4005/index.mpd
+https://a502.variety-buy.store/api/channel/8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 6-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN Sport HD 6-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4006/index.mpd
+https://a502.variety-buy.store/api/channel/9
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 7-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sport HD 7-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4007/index.mpd
+https://a502.variety-buy.store/api/channel/10
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 8" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",beIN Sport HD 8
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4062/index.mpd
+https://a502.variety-buy.store/api/channel/11
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 9" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN Sport HD 9
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4063/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 1-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sport HD 1-AR
+https://alraqi.ddns.net/Bein1/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 2-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sport HD 2-AR
+https://alraqi.ddns.net/Bein2/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 3-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sport HD 3-AR
+https://alraqi.ddns.net/Bein3/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 4-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sport HD 4-AR
+https://alraqi.ddns.net/Bein4/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 5-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sport HD 5-AR
+https://alraqi.ddns.net/Bein5/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 6-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN Sport HD 6-AR
+https://alraqi.ddns.net/Bein6/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 7-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sport HD 7-AR
+https://alraqi.ddns.net/Bein7/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 8" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",beIN Sport HD 8
+https://alraqi.ddns.net/Bein8/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 9" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN Sport HD 9
+https://alraqi.ddns.net/Bein9/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png",beIN Sports AFC
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4064/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",beIN Sports AFC 1
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4065/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",beIN Sports AFC 2
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4066/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN Sports AFC 3
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4067/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA HD 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sport XTRA HD 1
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4059/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA HD 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",beIN Sport XTRA HD 2
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4060/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA HD 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sport XTRA HD 3
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4061/index.mpd
+#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.imgur.com/XxPTptr.png" group-title="SPORTS" , beIN XTRA EN
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.imgur.com/WqcizjM.png" group-title="SPORTS" , beIN XTRA ñ ESP
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sports News-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",beIN Sports News-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4052/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sports Global-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",beIN Sports Global-AR
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4054/index.mpd
+https://a502.variety-buy.store/api/channel/12
