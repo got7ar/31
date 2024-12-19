@@ -1647,11 +1647,173 @@ https://uselector.cdn.intigral-ott.net/KDM/KDM.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
 https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd 
 
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SMART ZONE
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
-https://thedream.biz.id/gevolmagtigdes/prokci.php/https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"45742c5919d94b7ea59f776d69d8731f":"02cb1cf262e0ef55ff478bee6ebf297a"}
+#EXTINF:-1 group-title="AU",501
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/d02e2d8722a14413b5c8b354343c9ce2/index.mpd
 
-#EXTINF:-1 group-title="BEIN4K" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEwEBwYEBwcEBwcDBwcDBgYAAAZrUAn1tRDgpw/CkA2YcguHZgtbRQn/xBH/vxGqfgxGNggmHgcFBwcFBwYEBwfHNTu0AAAAFnRSTlMAZcT1/y3/////////////////wCa46m/eqwAAAPtJREFUeAGNkgUCwyAQBIktfkfs/18tW1fSiSA3OIZ0/TB+MPSduTCNP5mu8bYxNqnjt4XO9G2hN0NbGMx4wD8CfnEVYB3xIaYcPbPXcsZVCCKq6kNJXlTuqARce4gpqkY7exWfbkSnUnCbwyyakUUDKsuygFR/QRUqFCyCKsCStTMulfFF8OrBEmJJFCBa3npwFyH4QmF5F6KIZcCK1B6AopJfBKjyb2sCYCnCIV8EKyqqwoZFpHrLQ2DvNfFS8TPANDB+FRZrWQJmZsCVZgCP0wRLhEGmNcH/x93m+MqtbWE9vvZmaI9gzNYSNkNj+NmecdLtX5xh7xg7ATAyGB4go0ToAAAAAElFTkSuQmCC", tod 1
-#EXTVLCOPT:http-player-type=webplayer
-https://azrotv.com/extras/shaka-player/?id=aHR0cHM6Ly9saXZlLWQtMDEtdG9kdHYtZGEuYWthbWFpemVkLm5ldC92YXJpYW50L3YxYmxhY2tvdXQvc3BvLWhkLTA4LWQvREFTSF9EQVNIL0xpdmUvY2hhbm5lbChzcG8taGQtMDgpL21hbmlmZXN0Lm1wZD92Y2ZpbHRlcj04MTk5YTNlMi04NTEyLTQ2NzctOWVlOC0yMmU3ZGU1MzM3YmQmaGRudHM9c3Q9MTczNDUzNjQ0MH5leHA9MTczNDU1MDg0MH5hY2w9L3ZhcmlhbnQvdjFibGFja291dC9zcG8taGQtMDgtZC8qfmlkPTE1MzkxNmVhLTliYTctNGIwNC04YzJjLTljMjQ2ZmI1MTk4ZX5kYXRhPTlmZjI3MGMyLTA4OTgtNDBhZC05YzljLTEwMmMxNzQzYmVhOX5obWFjPWNmZTczMmUwNGExM2EwYTI0YzFmYWIyMzczZGUxZmE5N2ViN2JkYzEwN2Y5ZGRmNDc3ZGNiY2Y4Y2RhMGE5MzAmaGRjb3JlPTIuMTEuM3xkcm1TY2hlbWU9Y2xlYXJrZXkmZHJtTGljZW5zZT0wYTc5MzRkZGRjMzEzNmE2OTIyNTg0Yjk2YzNmZDFlNTo2NzZlNmQxZGQwMGJmYmUyNjYwMDNlZmFmMGUzYWEwMg==
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2a369ad1990b4753a60efddb26566fcc":"2afc5b514732bbcd7ae5f0d4e84dc4a0"}
+#EXTINF:-1 group-title="AU",502
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/9e84985084144f4591b094e340379c3b/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1e24829044eb4cad97e2ee742603942c":"cd0b01d8df6b31bcf189ed675c393149"}
+#EXTINF:-1 group-title="AU",503
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/cd060464f59947f29b890f8c76020ba4/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa769f5b08c24ea58bdc315b725df682":"7f51a3621e2ff0e947a399f2afd21f41"}
+#EXTINF:-1 group-title="AU",504
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/46982cf446e64f7ea28e5cd322d1d727/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e8042d5733fc4a6487c4da8482c9e0e8":"f9a316b5da3ef2d9cbb38f2e12fbf5f1"}
+#EXTINF:-1 group-title="AU",505
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/ed10ba1b249e4e559082d1627809b3e0/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8b889134b5d84f2a813b6d286f99de9a":"bdead7c2d27a64dfdf94e42828e80a48"}
+#EXTINF:-1 group-title="AU",506
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/97856d1115cd4e9299e8a44b33be949d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"45742c5919d94b7ea59f776d69d8731f":"02cb1cf262e0ef55ff478bee6ebf297a"}
+#EXTINF:-1 group-title="AU",507
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/d02e2d8722a14413b5c8b354343c9ce2/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a170b74d2c6c437e8077a8f798ceac89":"ed54c5faf4cf9e4bfdc3f3a7e7f8d884"}
+#EXTINF:-1 group-title="AU",bein2
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/6408f88861ae4a49999bfa81b2b7c01d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7325ed185b15462888218ae60df17cac":"e5eaa994035d03918a04fcf6b0294e26"}
+#EXTINF:-1 group-title="AU",bein3
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/0bd598c1c6f94c63922737791ebb1cb0/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e93c788837134e198f520903ad35dc94":"1b4457953ff23ece78790df9a1e11527"}
+#EXTINF:-1 group-title="AU",espn
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/5fb283d9104b4584b0f8e60468d83eaa/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cc2398344b414820aef0820a98847056":"cb06892fdf105e2489eb5a99adf266a9"}
+#EXTINF:-1 group-title="AU",espn2
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/449ce4ef8e2d4202baab82782ea4be7e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2ec7f3ac94a34dc18d18e824d1b5e5f4":"d0d6f038a1bdfd46681ea7d27c51f96f"}
+#EXTINF:-1 group-title="AU",fox sports news
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/27fdaa649d9a4bada0a513db91fd757a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02e6da5860454349abf49bba3cbd0fd0":"7deeb268fffa72171f554fb2b79e438a"}
+#EXTINF:-1 group-title="AU",racing
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/c0c202cc7e314a22aadd1805f0545d6f/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"289555a80d2749dd887f2950ef2010e6":"2c73aa89357e8041140b6d624f9306aa"}
+#EXTINF:-1 group-title="AU",wwe
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/70e96bd7a1cd451dbbb51eefd6ee020c/index.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38829b8e0533b28450a5a69":"40980f9d4f7e83edbb3dc2b9f04021b9"}
+#EXTINF:-1 tvg-id="BBC World News.fr" group-title="France",BBC World News
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$BBCWORLDNEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbce29b4e0533b28450a72df":"ec7b42d680f395e98b70f0f41528d13e"}
+#EXTINF:-1 tvg-id="RMCSPORT1.fr" group-title="France",RMCSPORT1
+https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium A
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium B
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af2e3be44145944a0e78832852f5daa:d366e6e9554b9fbcc40d78fa16206ebe
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vss/vss.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f02ddb8f11b597c84a5393348e047bb:bc52ff5ddb471c7691ffb57ae74726cc
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Football
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vsf/vsf.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Laliga TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=769ffe6317c75aa48bd5eb9c76e08235:4da506ac3b11200b6d343d3df8fe43b6
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-tve.cdn.viaplay.tv/vp/laligatv/laligatv.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Hub ECity HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Fashion TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
+https://ucdn.starhubgo.com/bpk-tv/FashionTV/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
+https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
+https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
+https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
+https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
