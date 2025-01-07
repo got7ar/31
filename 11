@@ -2470,3 +2470,28 @@ https://uselector.cdn.intigral-ott.net/KDM/KDM.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
 https://uselector.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd 
+
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606253.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606244.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606245.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606246.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606247.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606248.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606249.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606250.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606251.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606252.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606253.m3u8
