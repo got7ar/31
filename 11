@@ -2495,3 +2495,14 @@ http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606251.m3u8
 http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606252.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein1.png", BEIN SPORTS 1 4K
 http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/606253.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports UA HD
+http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Ukraine Plus HD
+http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 Georgia 
+http://158.101.214.187:8080/channel/n504ecebd/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 Georgia 
+http://158.101.214.187:8080/channel/n489d295e/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Окко Футбол 
+http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=443d5edac354972a97f67425879f54e1
