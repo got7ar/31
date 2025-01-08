@@ -2506,3 +2506,5 @@ http://158.101.214.187:8080/channel/n504ecebd/index.m3u8?q=443d5edac354972a97f67
 http://158.101.214.187:8080/channel/n489d295e/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 group-title="SPORT 🏆",Окко Футбол 
 http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",БОКС
+http://3583a204.kazaktelekom.com/iptv/B5MWVF2B66GG8B/31503/index.m3u8
