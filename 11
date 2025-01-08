@@ -509,6 +509,20 @@ http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/8979
 #EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="SPORT",Prima 4K
 http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/19319
 
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="SPORT",Prima 1
+http://lepadat.ro:8080/live/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/31399.m3u8
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="SPORT",Prima 1
+http://lepadat.ro:8080/live/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/9003.m3u8
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="SPORT",Prima 1
+http://lepadat.ro:8080/live/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/9005.m3u8
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="SPORT",Prima 1
+http://lepadat.ro:8080/live/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/9004.m3u8
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="SPORT",Prima 1
+http://lepadat.ro:8080/live/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/37842.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="Eurosport 4K" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NjlfMTI5ODc2OV9F/VVJPU1BPUlQtNEsucG5nJmhhc2g9YjM3/MTQzMzdmNTIyMDcwNTc5MGMyMGMwZDU1NjZlODg=.png" group-title="SPORT",Eurosport 4K
 http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/17995
 #EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t1 4K
