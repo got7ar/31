@@ -130,6 +130,42 @@ https://cdnlb.tvplayhome.lt/live/eds2/VIP7/GO3_LIVE_DASH_AVC/VIP7.mpd
 https://cdnlb.tvplayhome.lt/live/eds2/VIP14/GO3_LIVE_DASH_AVC/VIP14.mpd
 
 
+#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp F'ball 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", Sky Sports Main Event DE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1253/go-dash-fhd-avc/IESVC1253.mpd?dam
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",  Sk-y Sport Premier League DE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1256/go-dash-fhd-avc/IESVC1256.mpd?dam
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp F'ball 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1256/go-dash-fhd-avc/IESVC1256.mpd?dam
+
+
 #EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png", LI - Go 3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -466,61 +502,6 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp F'ball 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", Sky Sports Main Event DE HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1253/go-dash-fhd-avc/IESVC1253.mpd?dam
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",  Sk-y Sport Premier League DE HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1256/go-dash-fhd-avc/IESVC1256.mpd?dam
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp F'ball 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1256/go-dash-fhd-avc/IESVC1256.mpd?dam
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1019/go-dash-fhd-avc/IESVC1019.mpd?dam
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1318/go-dash-fhd-avc/IESVC1318.mpd?dam
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1320/go-dash-fhd-avc/IESVC1320.mpd?dam
 
 #EXTINF:-1 tvg-id="digi4k.ro" tvg-name="Digi 4K" tvg-logo="https://www.media-max.ro/wp-content/uploads/2020/05/Digi-4k-disponibil-temporar-necriptat.png" group-title="ANT.1, PROTV..PRIMA..KANAL.D",Digi 4K
 http://lepadat.ro:8080/silviufotbal/dkYquCqvOsR55zLq4LYDUzGzmjZVgK/8979
