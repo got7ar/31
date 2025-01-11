@@ -2283,3 +2283,16 @@ http://158.101.214.187:8080/channel/n489d295e/index.m3u8?q=443d5edac354972a97f67
 http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 group-title="SPORT 🏆",БОКС
 http://3583a204.kazaktelekom.com/iptv/B5MWVF2B66GG8B/31503/index.m3u8
+
+#EXTINF:-1, 1HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+#EXTINF:-1, 2HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+#EXTINF:-1, 3HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+#EXTINF:-1, 4HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+#EXTINF:-1, 5HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+#EXTINF:-1, 6HD
+https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
