@@ -1,15 +1,471 @@
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9df8ec5f86995102a6c9987d360b18c7:bb525f095535fa1ef2fd42f3068afd56
-#EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium A
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/xtra1/xtra1.isml/index.mpd|X-Forwarded-For=13.106.174.0|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9df8ec5f86995102a6c9987d360b18c7:bb525f095535fa1ef2fd42f3068afd56
-#EXTINF:-1 group-title="#🇸🇪 Viaplay Xtra 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 1
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/xtra1/xtra1.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66caccf1f6af575eaabd30f8a57c4630:db953ce4a7598c306ffaea9b6abd2d90
-#EXTINF:-1 group-title="#🇸🇪 Viaplay Xtra 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 2
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/xtra2/xtra2.isml/index.mpd|X-Forwarded-For=13.106.174.0
+[
+    {
+        "channel_name": "ARD",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/ARD/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "06c176c4fbe4e6cbce56060d8a996fe3",
+        "kid": "9d20687ec1503c31f29183667aaf22b0",
+        "country": "DK"
+    },
+    {
+        "channel_name": "BBC News",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/BBCW/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "4a237fca369a28d8b3b41ef8fe8336ee",
+        "kid": "6a82eddff43e3789ad192d9fa39ecf36",
+        "country": "DK"
+    },
+    {
+        "channel_name": "BBC Nordic",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/BBCE/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "e4fbc613abc097a7b4d7d13a4fe7a363",
+        "kid": "86371da2cfa9c49bc5aab16ab6099003",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Boomerang",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Boomrg/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "a6a228a6e9f35b2f23da7072a04c4e0c",
+        "kid": "735a74b86b3486b009b60199f6f49379",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Cartoon Network",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Cartoo/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "e63acafed986903d022db06d40e5de4a",
+        "kid": "c202b726b01fd0e4568d437461e69412",
+        "country": "DK"
+    },
+    {
+        "channel_name": "CNN",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/CNN/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "e504bfdfae3d00dbe4ceff022b3af0ea",
+        "kid": "e05238188a21a89542d716412a5f3a82",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Disney Channel",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Disney/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "b33359fe3e4474adffedee78d810f58f",
+        "kid": "c474fa614e26fed73c52279b61da1b1d",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Disney Junior",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/DisnJr/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "5a102b88f69954dec8f755d79dfc57d3",
+        "kid": "c64df28a352f963c798ef588fb18f0e6",
+        "country": "DK"
+    },
+    {
+        "channel_name": "dk4",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/dk4/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "8ac7d0d29b989b429e2a940844ac63bf",
+        "kid": "c15185359a4ff6a5e70d6be4fbfce6d5",
+        "country": "DK"
+    },
+    {
+        "channel_name": "DR Ramasjang",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/DRRam/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "54e666030bb704ccf71f4e8adbf48e41",
+        "kid": "4277377a507466e653d6ebad69064cb0",
+        "country": "DK"
+    },
+    {
+        "channel_name": "DR1",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/DR1/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "b15852a89fed4fcaf14ad5bcd8ac20bf",
+        "kid": "fd7b0e403d6df4e261574b5f0f2d2a5c",
+        "country": "DK"
+    },
+    {
+        "channel_name": "DR1 Synstolkning",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/DR1S/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "4c92afd6ded77abccd6bf190a5dabc17",
+        "kid": "9309583a28aa828eafe33ebf48772ba6",
+        "country": "DK"
+    },
+    {
+        "channel_name": "DR2",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/DR2/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "fb4d07a7799fcb8b5a69116d83244ea9",
+        "kid": "dc624a70b027194840ba4e91438f3045",
+        "country": "DK"
+    },
+    {
+        "channel_name": "DR2 Synstolkning",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/DR2S/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "cf9e603ef368333b7ee0f95455c15d18",
+        "kid": "962f46a39f953f1720bc5edae36af141",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Folketinget",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Tinget/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "b3d0e6aaf44703c510ad573783d75662",
+        "kid": "532a090706c5bbc74153b8c8b539a277",
+        "country": "DK"
+    },
+    {
+        "channel_name": "History Channel",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/HisCHD/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "f94f62ed302dc1fd9570abb9d92aa312",
+        "kid": "4893e7c90d52d194d3f979355abb3a3d",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Kanal Hovedstaden",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/KHove/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "d61ca97bb500077d33ed166dcd48230f",
+        "kid": "2a823d871a5858ab07275e04656ee3eb",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Lokal-tv",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/KOjy/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "746819bf5ae0b0de7f0c3a82e4f7a07d",
+        "kid": "0ed45910e63edd4a27c02fcbf3a45559",
+        "country": "DK"
+    },
+    {
+        "channel_name": "MTV Global",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/MTV/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "8bc5bdf284520050bb86f98d19861f00",
+        "kid": "a486fa2118c4c7d33be1c942eeda7b28",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Nat Geo Wild",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/WildHD/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "0ff2f4d2c4601d8ce57b1480806e0258",
+        "kid": "3af5681a6efc02cc3b32ba0d8039305b",
+        "country": "DK"
+    },
+    {
+        "channel_name": "National Geographic",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/NatGeo/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "5b870d9b8a6d2a97e1fd6b628300d314",
+        "kid": "9cf8089830bcfcb0b8990a7dd0ac8529",
+        "country": "DK"
+    },
+    {
+        "channel_name": "NDR",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/NDR/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "a56fe5bfd3f611971700a80c624c5a3b",
+        "kid": "ec5b592f86618f931d67570997501cb0",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Nick Jr.",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/NickJr/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "3ab6b2066855926cca4bb534935145e2",
+        "kid": "006e0481ff3529ba447d7ec797338da3",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Nickelodeon",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Nickel/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "a2ade049e05c96b5a48a73ccc9034c01",
+        "kid": "5c1e81b0f54d43a17f40a5e6244fc83f",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Nicktoons",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/Nickt/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "3924b160ae33f8b8c0927520b1c38fae",
+        "kid": "f0f706369ee372bb59e0ffffd58797bd",
+        "country": "DK"
+    },
+    {
+        "channel_name": "NRK1",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/NRK1/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "b5c46fa6d98e2ea662889229877b0df5",
+        "kid": "fca381729efc3c3141c41ab7d523bbe6",
+        "country": "DK"
+    },
+    {
+        "channel_name": "RAI1",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/RaiUno/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "272536375d4562bda39e7a6603576eeb",
+        "kid": "aa71d6b24c7bb66a305a603553879c05",
+        "country": "DK"
+    },
+    {
+        "channel_name": "RTL",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/RTL/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "7d78a567b1655756315c647c66f6dbc4",
+        "kid": "923d5166f8b698e2c3b32cc9f7239a3f",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Sat.1",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Sat1/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "b190a3b0f99409737d68527662907d0a",
+        "kid": "1f22e704c01985c5d9b216ff4ac663ec",
+        "country": "DK"
+    },
+    {
+        "channel_name": "See",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/Xee/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "bb9e6f52fc99dc2ec286eb6deb27e9b3",
+        "kid": "4fcc81da3c8303a8b87029b239a7fba0",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Sky Showtime 1",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/ParaSer/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "7cd1d6b21a64b91f0329fabe9801a5f4",
+        "kid": "9a10186053d08df3b2f0d2854c37e593",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Sky Showtime 2",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/ParaMov/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "3929baff181b078116c402416cdd38e8",
+        "kid": "a78fcbabda17c6525b4fb586fd424133",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Sport Live",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/Dantot/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "b6173129778bc2d86367fdfbc95843a2",
+        "kid": "0f952054e623df97671260dd48ee1a53",
+        "country": "DK"
+    },
+    {
+        "channel_name": "SVT1",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/SVT1/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "691fa180894b27e9a1a082188103ee1f",
+        "kid": "dd24685e401de93ecb2a53053b56df25",
+        "country": "DK"
+    },
+    {
+        "channel_name": "SVT2",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/SVT2/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "df2903270357fcf934ca186dde7379c9",
+        "kid": "b038d099d4beb91d114e8e87c98e6aba",
+        "country": "DK"
+    },
+    {
+        "channel_name": "tv-midtjylland",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/KMit/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "045a0db3ec4fd00a8953457f2e54b720",
+        "kid": "49afb8fe060b37ec4f7546bc3dfa32ba",
+        "country": "DK"
+    },
+    {
+        "channel_name": "tv-midtvest",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/R2Midt/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "7d29867e63218190bfa6ac3db40080a2",
+        "kid": "8569812bc353d6b3c45a43d87d6ad48d",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Charlie",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Charli/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "dcbf02d7c3f815930ab42c1a61aa8a86",
+        "kid": "745c417e7b3c8f28224c47a9d9e3c419",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Danmark Ost",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/TV2Midt/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "08cdef7b21e94108dac8b358aca68ce3",
+        "kid": "52d7722a3a4388a0e14be621d225f95b",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Echo",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/Zulu/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "bc207351a2a9fa830c9a623053a77b56",
+        "kid": "67d9fdf33b2e8f485bda0274386d9e00",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Fri",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/2FriHD/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "65dd20bdd887bda4b9a295f9bcdbdc4e",
+        "kid": "b6a8a350cd52921265ac74d863f44a76",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Kosmopol",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/R2Lorry/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "e5399c2ed8d7d7cd50aa2b181039d0f4",
+        "kid": "4c660f769f3d8b11906d34948277ecb1",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 News",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/2News/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "68a47d96767b97d1ffc0943b6b06b3e6",
+        "kid": "3a33853fce787de18d5d273ee93684de",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Ost",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/R2Ost/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "8d54474990711037630818a263ffd515",
+        "kid": "32aebc43adbc3abfef1abef26ee9df0a",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 OSTJYLLAND",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/Boomrg/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "969e509409ebf668221b704714a40170",
+        "kid": "28cb2871f3992d767cd3aff307fc596e",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Sport",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/2SpHD/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "079cbbbe7a80a703005fa5b9bb03ed95",
+        "kid": "d63f359e10d7f2331ec62860943b23f7",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV2 Sport X",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/tv2sportx/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "5595aa3ac9bc9f174a90fca904edb56b",
+        "kid": "c093c1d49f587f08806b3a825cb19264",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV3",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/TV3/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "0113d08d95ec14b5e0dd5a54045fb58d",
+        "kid": "73727ebb5bd59369794fb76d9e2db1b6",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV3 Max",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/3Sport2/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "638bb3fb6209a20c2cc16345de752afa",
+        "kid": "d8469b1345f283548df76b0f0e49c7a9",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV3 Plus",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/TV3plus/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "df2d97d13450076ca05bc4045e3f08db",
+        "kid": "ad8f9f3e9d862fff616790661f4714e6",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV3 Puls",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/3Puls/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "d0773d48f9618c1b86fa943657ce514b",
+        "kid": "37e7b13ecc1f70609cd67bdfd599857a",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV3 Sport",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/3Sport/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "339fd3e9bab61192704e0dbb891372b3",
+        "kid": "f9a671c71912ee522d9b2e478b04a2ae",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV4",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/TV4/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "fa8798cf2e83feb9d359e17c72a12798",
+        "kid": "c7feaca4ee5492783e74645ee41ca291",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TV5 Monde Europe",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/TV5M/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "ad1514aa5eea98b4b173d1a890dc50f3",
+        "kid": "30b50ff9c212d82697cdaeccc56222f6",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TVE",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/TVE/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "fbe18523ed4f828ba5df3b4422e7379d",
+        "kid": "b82b8ef6ba3c4b96fc4881470333178d",
+        "country": "DK"
+    },
+    {
+        "channel_name": "TVS+",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/R2Syd/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "5de24e8bce7e9a9644cd3d924cc9890e",
+        "kid": "20c0419e8e7e2b42974559274dcbc138",
+        "country": "DK"
+    },
+    {
+        "channel_name": "V Film Action",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/VAction/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "3793708c25a2d578e78153a63201314f",
+        "kid": "e81b660833b49fb7c6f689e62a157a38",
+        "country": "DK"
+    },
+    {
+        "channel_name": "V Film Family",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/VFamily/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "95380968c0716f7050ab7a8dc085d73a",
+        "kid": "d69644d846e9f5b27f93ae947ce60086",
+        "country": "DK"
+    },
+    {
+        "channel_name": "V Film Hits",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/VHits/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "ef357197d82c56d28e906c77677bf3cb",
+        "kid": "1cc084145dbaa0e057d6463e9d32414d",
+        "country": "DK"
+    },
+    {
+        "channel_name": "V Film Premiere",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/VFilm/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "188f2b028da0d2ea27e16019ac1e8611",
+        "kid": "60af4dfbc8c599e1437358ee13baec9e",
+        "country": "DK"
+    },
+    {
+        "channel_name": "V Series",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/VSerie/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "755b757032d03c583037390767392527",
+        "kid": "6ecc6589c9703f42033784375291007c",
+        "country": "DK"
+    },
+    {
+        "channel_name": "V Sport Golf",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/GolfHD/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "4ee5263c3f800d90c1fdc31f753b811e",
+        "kid": "49a7ef3c7598476bc511da7e36b92419",
+        "country": "DK"
+    },
+    {
+        "channel_name": "VH1",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/VH1/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "e81c485264721be589ec29c675b61d90",
+        "kid": "b9e372af9ec433ab959143b9f73ed27f",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Viasat Explore",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/Explor/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "8a70c3b0636ed60fdeb77b30c0063c5e",
+        "kid": "7b628153580687bead83fc63c7d0b6d4",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Viasat History",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/Histor/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "684135eadee92155d42041e241e3bd1f",
+        "kid": "32b664f614b92f0d2660eec54a40e360",
+        "country": "DK"
+    },
+    {
+        "channel_name": "Viasat Nature",
+        "mpd_url": "http://cl1-sslive.cdn.yousee.tv/ViaNC/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "c7b2b1ae2dbcbcde4885de23aad9abdd",
+        "kid": "d629a7753a1b578bf11acd0caedfc4c3",
+        "country": "DK"
+    },
+    {
+        "channel_name": "ZDF",
+        "mpd_url": "http://cl2-sslive.cdn.yousee.tv/ZDF/vxfmt=dp/Manifest?device_profile=chrome-pc",
+        "key": "adcf83d9afcc891dd25febc76fe6cf27",
+        "kid": "e0f1bf14eb3940cefcdf9d64d5cee4ee",
+        "country": "DK"
+    }
+]	
