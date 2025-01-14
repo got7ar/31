@@ -2391,3 +2391,20 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+
+#EXTINF:-1, now 1HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425332.m3u8
+#EXTINF:-1, now 2HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425333.m3u8
+#EXTINF:-1, now 3HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425334.m3u8
+#EXTINF:-1, now 4HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425335.m3u8
+#EXTINF:-1, now 5HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425336.m3u8
+#EXTINF:-1, now 6HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425337.m3u8
+#EXTINF:-1, now 7HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425331.m3u8
+#EXTINF:-1, now 8HD
+http://globalstreamz.xyz:3050/live/scriptsbyl@gmail.com/Bu3H8DKHz5/425330.m3u8
