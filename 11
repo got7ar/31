@@ -2518,3 +2518,28 @@ https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_C/index.m3u8
 #EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_D/index.m3u8
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_E/index.m3u8
+
+#EXTINF:-1,|.QAT.|_beIN SPORT 1 H265 ( LOGO HD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366632
+#EXTINF:-1,|.QAT.|_beIN SPORT 2 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366633
+#EXTINF:-1,|.QAT.|_beIN SPORT 3 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366634
+#EXTINF:-1,|.QAT.|_beIN SPORT 4 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366635
+#EXTINF:-1,|.QAT.|_beIN SPORT 5 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366636
+#EXTINF:-1,|.QAT.|_beIN SPORT 6 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366637
+#EXTINF:-1,|.QAT.|_beIN SPORT 7 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366638
+#EXTINF:-1,|.QAT.|_beIN SPORT 8 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366639
+#EXTINF:-1,|.QAT.|_beIN SPORT 9 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366640
+#EXTINF:-1,|.QAT.|_beIN SPORT XTRA 1 H265 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366641
+#EXTINF:-1,|.QAT.|_beIN SPORT XTRA 2 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366642
+#EXTINF:-1,|.QAT.|_beIN SPORT XTRA 3 ( LOGO UHD )
+http://covertv.lol:8080/Bastien33343CP/VbzeSGjwW8Gf/366643
