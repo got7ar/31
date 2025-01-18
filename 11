@@ -2519,37 +2519,9 @@ https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_C/index.m3u8
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_D/index.m3u8
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_E/index.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN Sports News HD
 http://mynetworks.info:80/live/F526DE/UH7766/693172.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN Sports News HD
 http://mynetworks.info:80/live/F526DE/UH7766/410706.m3u8
 
 
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN Sports News HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142732
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 HD" ,beIN SPORTS 1 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142736
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS2.png" tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 HD" ,beIN SPORTS 2 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142737
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS3.png" tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 HD" ,beIN SPORTS 3 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142738
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS4.png" tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD" ,beIN SPORTS 4 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142739
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS5.png" tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 HD" ,beIN SPORTS 5 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142740
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS6.png" tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD" ,beIN SPORTS 6 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142741
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS7.png" tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD" ,beIN SPORTS 7 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142742
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS8.png" tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS 8 HD" ,beIN SPORTS 8 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142733
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS9.png" tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS 9 HD" ,beIN SPORTS 9 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142734
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.NBA.png" tvg-id="beinsportsnba.qa" tvg-name="beIN SPORTS NBA HD" ,beIN SPORTS NBA HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142745
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA1.png" tvg-name="beIN Sport EXTRA 1 HD" ,beIN Sport EXTRA 1 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/421893
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA2.png" tvg-name="beIN Sport EXTRA 2 HD" ,beIN Sport EXTRA 2 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/421894
-#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA3.png" tvg-id="beinsports3premium.qa" tvg-name="beIN Sport EXTRA 3 HD" ,beIN Sport EXTRA 3 HD
-http://forevertv.me:8080/261073195577424/t5RfIGXvth/142735
