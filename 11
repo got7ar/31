@@ -2486,3 +2486,35 @@ http://zelda.king-box.tv:26160/DB3tVhjfQ027873/00Q8PUElQq/304355?play_token=PLtX
 http://zelda.king-box.tv:26160/DB3tVhjfQ027873/00Q8PUElQq/362346?play_token=pHTX4bg3u5&token=Mzk2TGo0ZWYxOHhEdnV2
 #EXTINF:-1, hub 4k
 http://zelda.king-box.tv:26160/DB3tVhjfQ027873/00Q8PUElQq/351593?play_token=t3GfRkUal5&token=bTFsZ2xhcnJsV3k3UExL
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_E/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_B/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_C/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_D/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_A/index.m3u8
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_B/index.m3u8
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_C/index.m3u8
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_D/index.m3u8
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_E/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_A/index.m3u8
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_B/index.m3u8
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_C/index.m3u8
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_D/index.m3u8
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_E/index.m3u8
