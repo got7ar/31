@@ -2543,30 +2543,16 @@ http://mynetworks.info:80/live/F526DE/UH7766/219630.ts
 #EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN Sports News HD
 http://mynetworks.info:80/live/F526DE/UH7766/7650.ts
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 1
-#EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/ch1/index.html?channel=ch1
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 2
-#EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/ch2/index.html
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 3
-#EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/ch3/index.html
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 4
-#EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/ch4/index.html
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 5
-#EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/ch5/index.html
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 6
-#EXTVLCOPT:http-player-type=webplayer
-https://high-kora.com/TOD/ch6/index.html
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 7
-#EXTVLCOPT:http-player-type=webplayer 
-https://high-kora.com/TOD/ch5/index1.html 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 8
-#EXTVLCOPT:http-player-type=webplayer 
-https://high-kora.com/TOD/ch7/index1.html 
-https://high-kora.com/TOD/ch7/index1.html
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9OY41SxakZxjIKHehzLKTQPBjtCHt7aGCJQjnGBxfxSSfuRGM1xXFHi5SSj5mdGcsg=w240-h480-rw", TOD 9
-#EXTVLCOPT:http-player-type=webplayer
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://spidertv.info:80/live/momhwsd33/ww784756/131727.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://spidertv.info:80/live/momhwsd33/ww784756/131726.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://spidertv.info:80/live/momhwsd33/ww784756/131725.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://spidertv.info:80/live/momhwsd33/ww784756/128005.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://spidertv.info:80/live/momhwsd33/ww784756/128004.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://spidertv.info:80/live/momhwsd33/ww784756/128003.m3u8
