@@ -2556,3 +2556,27 @@ http://spidertv.info:80/live/momhwsd33/ww784756/128005.m3u8
 http://spidertv.info:80/live/momhwsd33/ww784756/128004.m3u8
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
 http://spidertv.info:80/live/momhwsd33/ww784756/128003.m3u8
+
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/555829.m3u8
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/555830.m3u8
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/555831.m3u8
+
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/390.m3u8
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/391.m3u8
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/392.m3u8
+
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/554433.m3u8
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/554434.m3u8
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News HD" ,beIN 1 ++
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/554435.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", TNT Sports 1 uhd hdr
+http://max84.a8slate.com:2052/live/34993140697087/23659021365786/192104.m3u8
