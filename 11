@@ -2580,3 +2580,23 @@ http://max84.a8slate.com:2052/live/34993140697087/23659021365786/554435.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", TNT Sports 1 uhd hdr
 http://max84.a8slate.com:2052/live/34993140697087/23659021365786/192104.m3u8
+
+
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 1-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sport 4K 1-AR
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k1.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 2-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sport 4K 2-AR
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k2.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 3-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sport 4K 3-AR
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k3.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 4-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sport 4K 4-AR
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k4.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 5-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sport 4K 5-AR
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k5.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 6-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN Sport 4K 6-AR
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k6.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 7-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sport 4K 7-AR
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k7.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 8" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",beIN Sport 4K 8
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k8.m3u8
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 9" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN Sport 4K 9
+https://alraqi-tv.com/live/HLS/V3/bn_cdn_4k9.m3u8
