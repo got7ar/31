@@ -2918,5 +2918,5 @@ https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-1
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 FHD (50 FPS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5: 676e6d1dd00bfbe266003efaf0e3aa02
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
 https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-11)/manifest.mpd?hdnts=st=1737571729~exp=1737586129~acl=/Content/*~id=aa3b0c55-323d-40a5-8ae0-150bf964b258~data=6d764fff-ecc4-433e-9f92-24d3a78ca5f2~hmac=e0109430d0d53027d565f2b5d733dea67eb4ef58ca450de69b93b6f3d61f1443&hdcore=2.11.3
