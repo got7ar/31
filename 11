@@ -2625,3 +2625,8 @@ https://cdn.otvplayer.com/bn_cdn_4k7.m3u8
 https://cdn.otvplayer.com/bn_cdn_4k8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 9 Connect
 https://cdn.otvplayer.com/bn_cdn_4k9.m3u8
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
+https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
