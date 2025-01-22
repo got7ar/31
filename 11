@@ -2900,3 +2900,8 @@ https://mejarserver.com/Tod-Extra-2/index.mpd
 https://mejarserver.com/Tod-Extra-3/index.mpd
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sports News-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",beIN Sports News-AR
 https://mejarserver.com/beIN-News-Mejar/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/jJxgSC6/adsports1premium.png" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 1 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=c0e18486-8def-44bb-88a5-777ce6107c79&hdnts=st=1737572275~exp=1737586675~acl=/variant/v1blackout/spo-hd-08-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=d8993048-d248-4724-b779-8bf88471ead6~hmac=2288cc6a1c6a3bac400099f831b26626953a6b788078129337f5d536c2f842c3&hdcore=2.11.3
