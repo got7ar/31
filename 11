@@ -2787,3 +2787,38 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
 
+#EXTINF:-1 group-title="VIP Great Britain", BBC One
+
+https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
+
+#EXTINF:-1 group-title="VIP Great Britain", BBC Two
+
+https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
+
+#EXTINF:-1 group-title="VIP Great Britain", BBC Three
+
+https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
+
+#EXTINF:-1 group-title="VIP Great Britain", BBC Four
+
+https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+
+#EXTINF:-1 group-title="VIP Great Britain", Channel 4
+
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
