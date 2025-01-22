@@ -2869,3 +2869,30 @@ https://alraqi-tv.com/live/HLS/bn_cdn_4k7.m3u8
 https://alraqi-tv.com/live/HLS/bn_cdn_4k8.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K 9" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN Sport 4K 9
 https://alraqi-tv.com/live/HLS/bn_cdn_4k9.m3u8
+
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN 4K 1-AR---***---
+https://www.mejarserver.com/Tod-1/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN 4K 2-AR
+https://www.mejarserver.com/Tod-2/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN 4K 3-AR
+https://www.mejarserver.com/Tod-3/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4K 4-AR
+https://www.mejarserver.com/Tod-4/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN 4K 5-AR
+https://www.mejarserver.com/Tod-5/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN 4K 6-AR
+https://www.mejarserver.com/Tod-6/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN 4K 7-AR
+https://www.mejarserver.com/Tod-7/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",beIN 4K 8-AR
+https://www.mejarserver.com/Tod-8/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN 4K 9-AR
+https://www.mejarserver.com/Tod-9/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA 4K 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sport XTRA 4K 1
+https://mejarserver.com/Tod-Extra-1/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA 4K 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",beIN Sport XTRA 4K 2
+https://mejarserver.com/Tod-Extra-2/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA 4K 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sport XTRA 4K 3
+https://mejarserver.com/Tod-Extra-3/index.mpd
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sports News-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",beIN Sports News-AR
+https://mejarserver.com/beIN-News-Mejar/index.mpd
