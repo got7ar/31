@@ -54,8 +54,13 @@ https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35e
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 HD (50 FPS)
 https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=c0e18486-8def-44bb-88a5-777ce6107c79&hdnts=st%3D1737572275%7Eexp%3D1737586675%7Eacl%3D%2Fvariant%2Fv1blackout%2Fspo-hd-08-d%2F*%7Eid%3D153916ea-9ba7-4b04-8c2c-9c246fb5198e%7Edata%3Dd8993048-d248-4724-b779-8bf88471ead6%7Ehmac%3D2288cc6a1c6a3bac400099f831b26626953a6b788078129337f5d536c2f842c3&hdcore=2.11.3&ck=eyIwYTc5MzRkZGRjMzEzNmE2OTIyNTg0Yjk2YzNmZDFlNSI6IjY3NmU2ZDFkZDAwYmZiZTI2NjAwM2VmYWYwZTNhYTAyIn0%3D#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112484.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 HD (50 FPS)
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/jJxgSC6/adsports1premium.png" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 1 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=c0e18486-8def-44bb-88a5-777ce6107c79&hdnts=st=1737572275~exp=1737586675~acl=/variant/v1blackout/spo-hd-08-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=d8993048-d248-4724-b779-8bf88471ead6~hmac=2288cc6a1c6a3bac400099f831b26626953a6b788078129337f5d536c2f842c3&hdcore=2.11.3
+
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 HD (50 FPS)
 http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/89263.m3u8
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
 http://azertytv.pro:2103/live/hjks0CwP/hBkRmB3Y/112423.m3u8
