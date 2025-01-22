@@ -2822,3 +2822,31 @@ https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 #EXTINF:-1 group-title="VIP Great Britain", Channel 4
 
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_4k_avc/live.livx?indexMode&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=da7c66ccf42f459c00fdf1ad847d4fc0:13a48dc2c1257fd9a119b448de5225f6
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5 Live
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx?indexMode&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=628b14b29136ae26e4ea1a6bdaea7ede:ddafd3d32662550e624a81b8bfc4ed09
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5 Plus
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_plus/live.livx?indexMode&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=07e188f7cdfe89f1b157766bc4db084e:7f531e4eed5d07f5ae187c8807b40480
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5 Star
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_starz/live.livx?indexMode&dvr=7200000
