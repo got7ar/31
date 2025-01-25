@@ -2904,19 +2904,19 @@ https://mejarserver.com/beIN-News-Mejar/index.mpd
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=c0e18486-8def-44bb-88a5-777ce6107c79&hdnts=st=1737572275~exp=1737586675~acl=/variant/v1blackout/spo-hd-08-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=d8993048-d248-4724-b779-8bf88471ead6~hmac=2288cc6a1c6a3bac400099f831b26626953a6b788078129337f5d536c2f842c3&hdcore=2.11.3
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=3dab5ead-3c50-46c7-94fd-355aebe2c5e1&hdnts=st=1737816902~exp=1737831302~acl=/variant/v1blackout/spo-hd-08-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=3f3b9a9c-134d-4d29-931d-5aa03946697f~hmac=66d322f611df79c6a3e789f856441eb460f52e6379cf01ae96e6db87184ef9fd&hdcore=2.11.3
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-09)/manifest.mpd?hdnts=st=1737571729~exp=1737586129~acl=/Content/*~id=aa3b0c55-323d-40a5-8ae0-150bf964b258~data=6d764fff-ecc4-433e-9f92-24d3a78ca5f2~hmac=e0109430d0d53027d565f2b5d733dea67eb4ef58ca450de69b93b6f3d61f1443&hdcore=2.11.3
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-09-d/DASH_DASH/Live/channel(spo-hd-09)/manifest.mpd?vcfilter=f207054e-4fe7-4908-95fd-7000c58074c7&hdnts=st=1737816946~exp=1737831346~acl=/variant/v1blackout/spo-hd-09-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=1c8a7510-2558-42d7-ba5e-4b9293a677a1~hmac=55bebd1adf4b682d72ff4e99394e653c53c98bb3cdea3877fe44154f619e0ad5&hdcore=2.11.3
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-10)/manifest.mpd?hdnts=st=1737571729~exp=1737586129~acl=/Content/*~id=aa3b0c55-323d-40a5-8ae0-150bf964b258~data=6d764fff-ecc4-433e-9f92-24d3a78ca5f2~hmac=e0109430d0d53027d565f2b5d733dea67eb4ef58ca450de69b93b6f3d61f1443&hdcore=2.11.3
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-14-d/DASH_DASH/Live/channel(spo-hd-14)/manifest.mpd?vcfilter=ab5690e6-edfe-4b3c-b4ee-946c1e8d951b&hdnts=st=1737804543~exp=1737818943~acl=/variant/v1blackout/spo-hd-14-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=c43e3e7c-3896-46e6-8310-6f70a460a6d2~hmac=f58266048fa5c7d433d35179457b7cf559e1fa3be21c4856ffeea4ac1caa2591&hdcore=2.11.3
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 FHD (50 FPS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-11)/manifest.mpd?hdnts=st=1737571729~exp=1737586129~acl=/Content/*~id=aa3b0c55-323d-40a5-8ae0-150bf964b258~data=6d764fff-ecc4-433e-9f92-24d3a78ca5f2~hmac=e0109430d0d53027d565f2b5d733dea67eb4ef58ca450de69b93b6f3d61f1443&hdcore=2.11.3
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-12-d/DASH_DASH/Live/channel(spo-hd-12)/manifest.mpd?vcfilter=efd006cc-2338-4bdb-8df3-81ba50009cfb&hdnts=st=1737817797~exp=1737832197~acl=/variant/v1blackout/spo-hd-12-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=d366e1b0-06ea-43ac-b34f-3b271569e689~hmac=7e216c6e87a57b95812e2c53fe25d11505a2eb075d9a74c4a5978801ec35352a&hdcore=2.11.3
