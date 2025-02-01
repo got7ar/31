@@ -2875,7 +2875,7 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_starz/liv
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=2aeb6f1c-9be5-4ef3-a3e7-0317c050ff33&hdnts=st=1738271044~exp=1738285444~acl=/variant/v1blackout/spo-hd-08-d/*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=c262e040-2f33-4458-a21a-126c769d0269~hmac=9f6accebbf8cfc091640f4ca4e70294498567489365735958edde999550948a5&hdcore=2.11.3
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/hdntl=exp=1738442563~acl=%2fvariant%2fv1blackout%2fspo-hd-08-d%2f*~id=153916ea-9ba7-4b04-8c2c-9c246fb5198e~data=hdntl,0263dfa3-9216-4391-be05-fc2d381d3559~hmac=27c50fc788466d78ac2f30fbb64cff7f8a9f66e7d58964f0436b9a6c13eb9d04/manifest.mpd?vcfilter=4d9da5db-0bf2-45e9-80e0-113b0b043179&
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
