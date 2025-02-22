@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?hdnts=st=1740217518~exp=1740231918~acl=/Content/*~id=203228fb-6697-439f-bdc1-7b0e91b6def8~data=4a1148c2-2e95-41e0-9807-7a4422835248~hmac=d38a9dd4c6f0bfd08832fab967575ae963ce006abe4d1c4ebf38a62e2d4511f5&hdcore=2.11.3
+https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?hdnts=st=1740240698~exp=1740255098~acl=/Content/*~id=203228fb-6697-439f-bdc1-7b0e91b6def8~data=e0438eb8-fbc4-4f1a-ab91-938f63dbd2c8~hmac=1daf4d64308561dc30aa51436cc433c6953e1e4cfa48da767e3ee3a749c08aa9&hdcore=2.11.3
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
