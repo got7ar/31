@@ -601,9 +601,9 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist_tv.mpd?hdnts=st=1742885101~exp=1743061501~acl=*/Content/Channel/svc-spo-hd-08-dt/DASH/*~id=A5PBQFDFH2JD~data=aXA9NDYuMjAyLjE3Mi42Nw~hmac=362cfcd9668dbafd9bdf6ce0b42345352ab2f46cf397775cd7f9d49c6fcce5a5
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1743889282~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=bd11a3e9-087b-4600-b8d3-1ea65e204bba~data=hdntl,aXA9ODIuMjUuMTIwLjc4~hmac=8e4ead5c80373f218366139cbfe9e21b2cd4d7135413b41ce4fe50830e6b2d97/playlist.mpd?start=1743870452000&end=1743881400000
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
-https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist_tv.mpd?hdnts=st=1742768516~exp=1742944916~acl=*/Content/Channel/svc-spo-hd-08-dt/DASH/*~id=9HCDZELMW3RE~data=aXA9MTkzLjEwOC4xMzAuMjI~hmac=0edc4705990769ad33a5bebe13d539b040b8bddf868eb4f49693acfcf7b27fc0
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist.mpd?start=1743870452000&end=1743881400000&hdnts=st=1743874843~exp=1743875012~acl=*/Content/Channel/svc-spo-hd-08-dt/DASH/*~id=bd11a3e9-087b-4600-b8d3-1ea65e204bba~data=aXA9ODIuMjUuMTIwLjc4~hmac=b0ef9df3381b7047bc88ac9d86bccbb5cd5e9f0b25d29054c75504f1a8234312
