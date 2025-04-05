@@ -601,7 +601,7 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist.mpd?start=1743870452000&end=1743881400000&hdnts=st=1743874942~exp=1743875112~acl=*/Content/Channel/svc-spo-hd-08-dt/DASH/*~id=bd11a3e9-087b-4600-b8d3-1ea65e204bba~data=aXA9ODIuMjUuMTIwLjc4~hmac=a7f23d73cb3d99445f5b9ffd2f8e501a816fec0879099b41049081b77ef9d7ea
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1743889398~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=bd11a3e9-087b-4600-b8d3-1ea65e204bba~data=hdntl,aXA9ODIuMjUuMTIwLjc4~hmac=6f250dcb5c170c507ce0d1cf5a58b9db23a61f642379db41e48206b6c969890a/playlist.mpd?start=1743870452000&end=1743881400000
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
