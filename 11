@@ -607,3 +607,8 @@ https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
 https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1744151398~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=a720ebec-0d88-4916-ba6f-b38b89156128~data=hdntl,aXA9NDEuMTExLjIzNC45OA~hmac=f326a7bf2d2af0edb9e194bb2922537c48e50fac3e765872a2663812a0464807/playlist.mpd?start=1744135276000&end=1744149900000
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65db526cea02406777a4a3530afaa74d57aee07fc1ac892555215cbd2c467e76:770afaa817895eb8470dddd12d23b2dd
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist.mpd
