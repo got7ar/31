@@ -622,7 +622,7 @@ https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-09-dt/DASH/
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
-https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1744156789~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=a720ebec-0d88-4916-ba6f-b38b89156128~data=hdntl,aXA9NDEuMTExLjIzNC45OA~hmac=91a8d161b97969ffb3c4a1546c03df05b7db1441eea9d957861e46304cf0df6b/playlist.mpd
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1744328720~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=a720ebec-0d88-4916-ba6f-b38b89156128~data=hdntl,aXA9NDEuMTExLjIzNC45OA~hmac=f0b89e412c5191850904a6db044b0c5a97f14e64389fd5fa48f7809e3ceada8e/playlist.mpd?start=1744307400000&end=1744323000000
 
 
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
